@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x48085a4943201caDdc036230dF62A2321fF2Af9c",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Friday Frog Club",
+  "SYMBOL": "FFC",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fridayfrogclub",
+  "SHOW_BACKGROUND": false
+}

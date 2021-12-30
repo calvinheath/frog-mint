@@ -1,0 +1,22 @@
+:root {
+  --primary: #FCD7F0;
+  --primary-text: #1a1a1a;
+  --secondary: #00BDA4;
+  --secondary-text: #00BDA4;
+  --accent: #FFEBF7;
+  --accent-text: #00BDA4;
+}
+@font-face {
+  font-family: 'Marker';
+  src: url(marker.ttf);
+}
+body
+{
+  font-family: 'Marker' !important;
+}
+button
+{
+  font-family: 'Marker' !important; 
+  color: #FFEBF7 !important;
+  background-color: #00BDA4 !important;
+}
